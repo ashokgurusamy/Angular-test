@@ -1,0 +1,11 @@
+button{
+  margin: 10px;
+  border-radius: 5px;
+}
+span{
+  display: inline-block;
+  min-width: 200px;
+}
+div{
+  margin: 20px;
+}
